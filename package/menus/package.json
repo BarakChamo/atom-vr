@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Atom VR",
+        "command": "atomvr:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom VR",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atomvr:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

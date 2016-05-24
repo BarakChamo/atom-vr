@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom VR",
+          "submenu": [
+            {
+              "label": "Toggle da magic!",
+              "command": "atom-vr:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
